@@ -91,3 +91,15 @@
 [submodule "mastodon"]
 	path = mastodon
 	url = git@github.com:tootsuite/mastodon.git
+[submodule "rspec-rails"]
+	path = rspec-rails
+	url = git@github.com:rspec/rspec-rails.git
+[submodule "rspec-core"]
+	path = rspec-core
+	url = git@github.com:rspec/rspec-core.git
+[submodule "rspec-expectations"]
+	path = rspec-expectations
+	url = git@github.com:rspec/rspec-expectations.git
+[submodule "rspec-mocks"]
+	path = rspec-mocks
+	url = git@github.com:rspec/rspec-mocks.git
