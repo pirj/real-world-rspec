@@ -1,0 +1,93 @@
+[submodule "gitlabhq"]
+	path = gitlabhq
+	url = git@github.com:gitlabhq/gitlabhq.git
+[submodule "discourse"]
+	path = discourse
+	url = git@github.com:discourse/discourse.git
+[submodule "chef"]
+	path = chef
+	url = git@github.com:chef/chef.git
+[submodule "rubocop"]
+	path = rubocop
+	url = git@github.com:rubocop-hq/rubocop.git
+[submodule "capistrano"]
+	path = capistrano
+	url = git@github.com:capistrano/capistrano.git
+[submodule "puppet"]
+	path = puppet
+	url = git@github.com:puppetlabs/puppet.git
+[submodule "brew"]
+	path = brew
+	url = git@github.com:homebrew/brew.git
+[submodule "lobsters"]
+	path = lobsters
+	url = git@github.com:lobsters/lobsters.git
+[submodule "spree"]
+	path = spree
+	url = git@github.com:spree/spree.git
+[submodule "huginn"]
+	path = huginn
+	url = git@github.com:huginn/huginn.git
+[submodule "diaspora"]
+	path = diaspora
+	url = git@github.com:diaspora/diaspora.git
+[submodule "refinerycms"]
+	path = refinerycms
+	url = git@github.com:refinery/refinerycms.git
+[submodule "radiant"]
+	path = radiant
+	url = git@github.com:radiant/radiant.git
+[submodule "fat_free_crm"]
+	path = fat_free_crm
+	url = git@github.com:fatfreecrm/fat_free_crm.git
+[submodule "errbit"]
+	path = errbit
+	url = git@github.com:errbit/errbit.git
+[submodule "engine"]
+	path = engine
+	url = git@github.com:locomotivecms/engine.git
+[submodule "canvas-lms"]
+	path = canvas-lms
+	url = git@github.com:instructure/canvas-lms.git
+[submodule "hound"]
+	path = hound
+	url = git@github.com:thoughtbot/hound.git
+[submodule "loomio"]
+	path = loomio
+	url = git@github.com:loomio/loomio.git
+[submodule "24pullrequests"]
+	path = 24pullrequests
+	url = git@github.com:24pullrequests/24pullrequests.git
+[submodule "publify"]
+	path = publify
+	url = git@github.com:publify/publify.git
+[submodule "open-source-billing"]
+	path = open-source-billing
+	url = git@github.com:vteams/open-source-billing.git
+[submodule "camaleon-cms"]
+	path = camaleon-cms
+	url = git@github.com:owen2345/camaleon-cms.git
+[submodule "solidus"]
+	path = solidus
+	url = git@github.com:solidusio/solidus.git
+[submodule "cartodb"]
+	path = cartodb
+	url = git@github.com:CartoDB/cartodb.git
+[submodule "sharetribe"]
+	path = sharetribe
+	url = git@github.com:sharetribe/sharetribe.git
+[submodule "administrate"]
+	path = administrate
+	url = git@github.com:thoughtbot/administrate.git
+[submodule "forem"]
+	path = forem
+	url = git@github.com:forem/forem.git
+[submodule "rubytoolbox"]
+	path = rubytoolbox
+	url = git@github.com:rubytoolbox/rubytoolbox.git
+[submodule "chatwoot"]
+	path = chatwoot
+	url = git@github.com:chatwoot/chatwoot.git
+[submodule "mastodon"]
+	path = mastodon
+	url = git@github.com:tootsuite/mastodon.git
