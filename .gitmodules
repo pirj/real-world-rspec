@@ -103,3 +103,6 @@
 [submodule "rspec-mocks"]
 	path = rspec-mocks
 	url = git@github.com:rspec/rspec-mocks.git
+[submodule "capybara"]
+	path = capybara
+	url = git@github.com:teamcapybara/capybara.git
