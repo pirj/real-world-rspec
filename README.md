@@ -30,8 +30,12 @@ git submodule update --remote --checkout --single-branch --depth 1
 
 ## Other Real World codebase collections
 
- - Real World Ruby https://github.com/jeromedalbert/real-world-ruby-apps
- - Real World Rails https://github.com/eliotsykes/real-world-rails
+- Real World Ruby https://github.com/jeromedalbert/real-world-ruby-apps
+- Real World Rails https://github.com/eliotsykes/real-world-rails
+- Real World Sinatra https://github.com/jeromedalbert/real-world-sinatra
+- Real World Ember https://github.com/eliotsykes/real-world-ember
+- Real World React Apps https://github.com/jeromedalbert/real-world-react-apps
+- Know any others? Please open a PR and add the link here
 
 ## Contribute
 
