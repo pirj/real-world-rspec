@@ -58,6 +58,16 @@ For a repo `fooser/baretory`:
 git submodule add --depth 1 -- git@github.com:fooser/baretory.git
 ```
 
+### How to remove a repository
+
+Some repositories disappear from public, or are renamed improperly (without a redirect).
+To remove a submodule:
+
+```bash
+git rm -r path-to-submodule
+rm -rf .git/modules/path-to-submodule
+```
+
 ## Contributors
 
 Phil Pirozhkov https://fili.pp.ru
