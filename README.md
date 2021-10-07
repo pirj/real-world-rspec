@@ -17,6 +17,12 @@ cd real-world-rspec
 git submodule update --init --remote --checkout --single-branch --depth 1
 ```
 
+To speed this process up, you can tell git to fetch several repositories in parallel:
+
+```bash
+git config [--global] submodule.fetchJobs 4
+```
+
 ### Updating
 
 The repositories are linked as git submodules.
