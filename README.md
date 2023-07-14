@@ -41,6 +41,7 @@ git submodule update --remote --checkout --single-branch --depth 1
 - Real World Sinatra https://github.com/jeromedalbert/real-world-sinatra
 - Real World Ember https://github.com/eliotsykes/real-world-ember
 - Real World React Apps https://github.com/jeromedalbert/real-world-react-apps
+- Real World Django https://github.com/ckrybus/real-world-django
 - Know any others? Please open a PR and add the link here
 
 ## Contribute
