@@ -127,3 +127,6 @@
 [submodule "graphql-ruby"]
 	path = graphql-ruby
 	url = git@github.com:rmosolgo/graphql-ruby.git
+[submodule "simplecov"]
+	path = simplecov
+	url = git@github.com:simplecov-ruby/simplecov.git
