@@ -118,3 +118,6 @@
 [submodule "factory_bot"]
 	path = factory_bot
 	url = git@github.com:thoughtbot/factory_bot.git
+[submodule "hanami"]
+	path = hanami
+	url = git@github.com:hanami/hanami.git
