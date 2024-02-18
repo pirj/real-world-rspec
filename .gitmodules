@@ -115,3 +115,6 @@
 [submodule "activeadmin"]
 	path = activeadmin
 	url = git@github.com:activeadmin/activeadmin.git
+[submodule "factory_bot"]
+	path = factory_bot
+	url = git@github.com:thoughtbot/factory_bot.git
