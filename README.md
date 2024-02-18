@@ -38,7 +38,14 @@ git submodule update --remote --checkout --single-branch --depth 1
 
 - Real World Ruby https://github.com/jeromedalbert/real-world-ruby-apps
 - Real World Rails https://github.com/eliotsykes/real-world-rails
+- Real-world Hanami https://github.com/ydakuka/real-world-hanami
 - Real World Sinatra https://github.com/jeromedalbert/real-world-sinatra
+- Real World Elixir Apps https://github.com/szTheory/real-world-elixir-apps
+- Real World Phoenix https://github.com/szTheory/real-world-phoenix
+- Real World Absinthe https://github.com/szTheory/real-world-absinthe
+- Real World Nerves https://github.com/szTheory/real-world-nerves
+- Real World Plug https://github.com/szTheory/real-world-plug
+- Real World Erlang Apps https://github.com/szTheory/real-world-erlang-apps
 - Real World Ember https://github.com/eliotsykes/real-world-ember
 - Real World React Apps https://github.com/jeromedalbert/real-world-react-apps
 - Real World Django https://github.com/ckrybus/real-world-django
