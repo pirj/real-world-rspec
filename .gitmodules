@@ -106,3 +106,6 @@
 [submodule "capybara"]
 	path = capybara
 	url = git@github.com:teamcapybara/capybara.git
+[submodule "danger"]
+	path = danger
+	url = git@github.com:danger/danger.git
