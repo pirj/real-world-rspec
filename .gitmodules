@@ -124,3 +124,6 @@
 [submodule "pry"]
 	path = pry
 	url = git@github.com:pry/pry.git
+[submodule "graphql-ruby"]
+	path = graphql-ruby
+	url = git@github.com:rmosolgo/graphql-ruby.git
