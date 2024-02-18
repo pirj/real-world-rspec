@@ -112,3 +112,6 @@
 [submodule "grape"]
 	path = grape
 	url = git@github.com:ruby-grape/grape.git
+[submodule "activeadmin"]
+	path = activeadmin
+	url = git@github.com:activeadmin/activeadmin.git
