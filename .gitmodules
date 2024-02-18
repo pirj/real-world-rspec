@@ -121,3 +121,6 @@
 [submodule "hanami"]
 	path = hanami
 	url = git@github.com:hanami/hanami.git
+[submodule "pry"]
+	path = pry
+	url = git@github.com:pry/pry.git
