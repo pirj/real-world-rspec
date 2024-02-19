@@ -106,3 +106,27 @@
 [submodule "capybara"]
 	path = capybara
 	url = git@github.com:teamcapybara/capybara.git
+[submodule "danger"]
+	path = danger
+	url = git@github.com:danger/danger.git
+[submodule "grape"]
+	path = grape
+	url = git@github.com:ruby-grape/grape.git
+[submodule "activeadmin"]
+	path = activeadmin
+	url = git@github.com:activeadmin/activeadmin.git
+[submodule "factory_bot"]
+	path = factory_bot
+	url = git@github.com:thoughtbot/factory_bot.git
+[submodule "hanami"]
+	path = hanami
+	url = git@github.com:hanami/hanami.git
+[submodule "pry"]
+	path = pry
+	url = git@github.com:pry/pry.git
+[submodule "graphql-ruby"]
+	path = graphql-ruby
+	url = git@github.com:rmosolgo/graphql-ruby.git
+[submodule "simplecov"]
+	path = simplecov
+	url = git@github.com:simplecov-ruby/simplecov.git
