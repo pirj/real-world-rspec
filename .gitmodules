@@ -1,9 +1,6 @@
 [submodule "gitlabhq"]
 	path = gitlabhq
 	url = git@github.com:gitlabhq/gitlabhq.git
-[submodule "discourse"]
-	path = discourse
-	url = git@github.com:discourse/discourse.git
 [submodule "chef"]
 	path = chef
 	url = git@github.com:chef/chef.git
@@ -124,3 +121,6 @@
 [submodule "rspec"]
 	path = rspec
 	url = git@github.com:rspec/rspec.git
+[submodule "discourse"]
+	path = discourse
+	url = git@github.com:discourse/discourse.git
