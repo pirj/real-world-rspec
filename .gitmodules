@@ -16,9 +16,6 @@
 [submodule "brew"]
 	path = brew
 	url = git@github.com:homebrew/brew.git
-[submodule "lobsters"]
-	path = lobsters
-	url = git@github.com:lobsters/lobsters.git
 [submodule "spree"]
 	path = spree
 	url = git@github.com:spree/spree.git
@@ -70,9 +67,6 @@
 [submodule "cartodb"]
 	path = cartodb
 	url = git@github.com:CartoDB/cartodb.git
-[submodule "sharetribe"]
-	path = sharetribe
-	url = git@github.com:sharetribe/sharetribe.git
 [submodule "administrate"]
 	path = administrate
 	url = git@github.com:thoughtbot/administrate.git
@@ -124,3 +118,9 @@
 [submodule "discourse"]
 	path = discourse
 	url = git@github.com:discourse/discourse.git
+[submodule "lobsters"]
+	path = lobsters
+	url = git@github.com:lobsters/lobsters.git
+[submodule "sharetribe"]
+	path = sharetribe
+	url = git@github.com:sharetribe/sharetribe.git
