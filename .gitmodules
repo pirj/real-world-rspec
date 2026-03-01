@@ -43,9 +43,6 @@
 [submodule "canvas-lms"]
 	path = canvas-lms
 	url = git@github.com:instructure/canvas-lms.git
-[submodule "hound"]
-	path = hound
-	url = git@github.com:thoughtbot/hound.git
 [submodule "loomio"]
 	path = loomio
 	url = git@github.com:loomio/loomio.git
@@ -115,12 +112,12 @@
 [submodule "rspec"]
 	path = rspec
 	url = git@github.com:rspec/rspec.git
-[submodule "discourse"]
-	path = discourse
-	url = git@github.com:discourse/discourse.git
 [submodule "lobsters"]
 	path = lobsters
 	url = git@github.com:lobsters/lobsters.git
+[submodule "discourse"]
+	path = discourse
+	url = git@github.com:discourse/discourse.git
 [submodule "sharetribe"]
 	path = sharetribe
 	url = git@github.com:sharetribe/sharetribe.git
